@@ -1,0 +1,31 @@
+body {
+	background-color: blue;
+}
+img {
+	height: 100px;
+	width: 100px;
+	position: fixed;
+}
+ul {
+	position: relative;
+	text-align: right;
+}
+li {
+	text-decoration: none;
+	display: inline;
+}
+#login {
+	border-radius: 25px;
+	width: 250px;
+	height: 250px;
+	background-color: #1a9993;
+	margin-top: 200px;
+	position: absolute;
+}
+form{
+	text-align: center;
+	padding-top: auto;
+}
+label{
+
+}
