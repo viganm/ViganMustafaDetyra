@@ -1,0 +1,80 @@
+.Div1{
+    text-align: center;
+    height: 780px;
+}
+
+.Class1{
+    position:relative;
+    top: 200px;
+    color:black;
+    font-family: arial;
+}
+
+.div1 img{
+    
+    position: absolute;  
+    left:0;
+    width: 100%;   
+    opacity: 50%;
+
+}           
+
+.Butonat button{
+    position :relative;
+    top: 200px;
+    border-radius: 25px;
+    background-color:blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+}
+
+#Red{
+    background-color: red;
+}
+.div2 table{
+    text-align: center;
+    font-family: arial;
+}
+.ikonat{
+    height: 60px;
+    width: 60px;
+}
+
+
+.Div3{
+    position: relative;
+    top:50px;
+    text-align: center;
+    height: 500px;
+}
+
+.Div3 h3{
+    position: relative;
+    padding-top: 20%;
+    color: black;
+}
+
+.Div3 img{
+    position: absolute;  
+    left:0;
+    height: 100%;
+    width: 100%;   
+    opacity: 50%;
+
+} 
+
+.Div31 img{
+    left: 50%;
+    top: 50%;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+}
+footer{
+    text-align: center;
+    margin: 50px;
+}
